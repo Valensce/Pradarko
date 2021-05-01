@@ -1,5 +1,4 @@
 # Pradarko
-*
 
 INVERT
 .jfk-bubble.gtx-bubble
